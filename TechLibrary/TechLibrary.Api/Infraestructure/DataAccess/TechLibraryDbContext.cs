@@ -7,6 +7,7 @@ public class TechLibraryDbContext : DbContext
 {
     // Referência pra tabela USERS
     public DbSet<User> Users { get; set; }
+    public DbSet<Book> Books { get; set; }
 
     // Conexão com banco
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

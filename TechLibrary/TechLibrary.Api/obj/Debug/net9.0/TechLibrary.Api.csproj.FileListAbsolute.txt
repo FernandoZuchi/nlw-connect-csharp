@@ -1,3 +1,11 @@
+C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\obj\Debug\net9.0\TechLibrary.Api.csproj.AssemblyReference.cache
+C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\obj\Debug\net9.0\TechLibrary.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\obj\Debug\net9.0\TechLibrary.Api.AssemblyInfoInputs.cache
+C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\obj\Debug\net9.0\TechLibrary.Api.AssemblyInfo.cs
+C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\obj\Debug\net9.0\TechLibrary.Api.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\obj\Debug\net9.0\TechLibrary.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\obj\Debug\net9.0\TechLibrary.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\obj\Debug\net9.0\TechLibrary.Api.sourcelink.json
 C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\appsettings.json
 C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\TechLibrary.Api.staticwebassets.endpoints.json
@@ -62,14 +70,6 @@ C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\Te
 C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\TechLibrary.Exception.dll
 C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\TechLibrary.Communication.pdb
 C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\TechLibrary.Exception.pdb
-C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\obj\Debug\net9.0\TechLibrary.Api.csproj.AssemblyReference.cache
-C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\obj\Debug\net9.0\TechLibrary.Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\obj\Debug\net9.0\TechLibrary.Api.AssemblyInfoInputs.cache
-C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\obj\Debug\net9.0\TechLibrary.Api.AssemblyInfo.cs
-C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\obj\Debug\net9.0\TechLibrary.Api.csproj.CoreCompileInputs.cache
-C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\obj\Debug\net9.0\TechLibrary.Api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\obj\Debug\net9.0\TechLibrary.Api.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\obj\Debug\net9.0\TechLibrary.Api.sourcelink.json
 C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\obj\Debug\net9.0\scopedcss\bundle\TechLibrary.Api.styles.css
 C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\obj\Debug\net9.0\staticwebassets.development.json

@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27516AB2-24EC-4896-BEF5-AF70C2982E8A}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\fernando zuchi\\desktop\\develop\\www\\nlw-connect\\c#\\nlw-connect-csharp\\techlibrary\\techlibrary.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27516AB2-24EC-4896-BEF5-AF70C2982E8A}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27516AB2-24EC-4896-BEF5-AF70C2982E8A}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\fernando zuchi\\desktop\\develop\\www\\nlw-connect\\c#\\nlw-connect-csharp\\techlibrary\\techlibrary.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27516AB2-24EC-4896-BEF5-AF70C2982E8A}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27516AB2-24EC-4896-BEF5-AF70C2982E8A}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\fernando zuchi\\desktop\\develop\\www\\nlw-connect\\c#\\nlw-connect-csharp\\techlibrary\\techlibrary.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27516AB2-24EC-4896-BEF5-AF70C2982E8A}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Api\\Filters\\ExceptionFilter.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Filters\\ExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Api\\Filters\\ExceptionFilter.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Filters\\ExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T22:28:10.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Api\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Api\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T22:11:40.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T22:11:35.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

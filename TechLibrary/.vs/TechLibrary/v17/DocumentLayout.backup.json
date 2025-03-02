@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27516AB2-24EC-4896-BEF5-AF70C2982E8A}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\fernando zuchi\\desktop\\develop\\www\\nlw-connect\\c#\\nlw-connect-csharp\\techlibrary\\techlibrary.api\\usecases\\users\\register\\registeruserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27516AB2-24EC-4896-BEF5-AF70C2982E8A}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\usecases\\users\\register\\registeruserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27516AB2-24EC-4896-BEF5-AF70C2982E8A}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\fernando zuchi\\desktop\\develop\\www\\nlw-connect\\c#\\nlw-connect-csharp\\techlibrary\\techlibrary.api\\usecases\\login\\dologin\\dologinusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27516AB2-24EC-4896-BEF5-AF70C2982E8A}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\usecases\\login\\dologin\\dologinusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27516AB2-24EC-4896-BEF5-AF70C2982E8A}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\fernando zuchi\\desktop\\develop\\www\\nlw-connect\\c#\\nlw-connect-csharp\\techlibrary\\techlibrary.api\\infraestructure\\security\\cryptography\\bcryptalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27516AB2-24EC-4896-BEF5-AF70C2982E8A}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\infraestructure\\security\\cryptography\\bcryptalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC3D30CC-4D1E-430E-8122-532B11D972E1}|TechLibrary.Exception\\TechLibrary.Exception.csproj|c:\\users\\fernando zuchi\\desktop\\develop\\www\\nlw-connect\\c#\\nlw-connect-csharp\\techlibrary\\techlibrary.exception\\invalidloginexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC3D30CC-4D1E-430E-8122-532B11D972E1}|TechLibrary.Exception\\TechLibrary.Exception.csproj|solutionrelative:techlibrary.exception\\invalidloginexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27516AB2-24EC-4896-BEF5-AF70C2982E8A}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\fernando zuchi\\desktop\\develop\\www\\nlw-connect\\c#\\nlw-connect-csharp\\techlibrary\\techlibrary.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27516AB2-24EC-4896-BEF5-AF70C2982E8A}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{538C1DF6-29D5-4F6D-ADA5-65E27D069066}|TechLibrary.Communication\\TechLibrary.Communication.csproj|c:\\users\\fernando zuchi\\desktop\\develop\\www\\nlw-connect\\c#\\nlw-connect-csharp\\techlibrary\\techlibrary.communication\\requests\\requestloginjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538C1DF6-29D5-4F6D-ADA5-65E27D069066}|TechLibrary.Communication\\TechLibrary.Communication.csproj|solutionrelative:techlibrary.communication\\requests\\requestloginjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27516AB2-24EC-4896-BEF5-AF70C2982E8A}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\fernando zuchi\\desktop\\develop\\www\\nlw-connect\\c#\\nlw-connect-csharp\\techlibrary\\techlibrary.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27516AB2-24EC-4896-BEF5-AF70C2982E8A}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BCryptAlgorithm.cs",
-              "DocumentMoniker": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Api\\Infraestructure\\Security\\Cryptography\\BCryptAlgorithm.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\Infraestructure\\Security\\Cryptography\\BCryptAlgorithm.cs",
-              "ToolTip": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Api\\Infraestructure\\Security\\Cryptography\\BCryptAlgorithm.cs",
-              "RelativeToolTip": "TechLibrary.Api\\Infraestructure\\Security\\Cryptography\\BCryptAlgorithm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Title": "InvalidLoginException.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Exception\\InvalidLoginException.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Exception\\InvalidLoginException.cs",
+              "ToolTip": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Exception\\InvalidLoginException.cs",
+              "RelativeToolTip": "TechLibrary.Exception\\InvalidLoginException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T20:24:12.723Z",
+              "WhenOpened": "2025-03-02T21:56:01.33Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RegisterUserUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
-              "ToolTip": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
-              "RelativeToolTip": "TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAA0wC4AAAA7AAAAAAAAAA==",
+              "Title": "DoLoginUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Api\\UseCases\\Login\\DoLogin\\DoLoginUseCase.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\UseCases\\Login\\DoLogin\\DoLoginUseCase.cs",
+              "ToolTip": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Api\\UseCases\\Login\\DoLogin\\DoLoginUseCase.cs",
+              "RelativeToolTip": "TechLibrary.Api\\UseCases\\Login\\DoLogin\\DoLoginUseCase.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T20:18:53.294Z",
+              "WhenOpened": "2025-03-02T21:51:09.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Api\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Api\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "TechLibrary.Api\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Title": "RequestLoginJson.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Communication\\Requests\\RequestLoginJson.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Communication\\Requests\\RequestLoginJson.cs",
+              "ToolTip": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Communication\\Requests\\RequestLoginJson.cs",
+              "RelativeToolTip": "TechLibrary.Communication\\Requests\\RequestLoginJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T20:17:52.008Z",
+              "WhenOpened": "2025-03-02T21:48:22.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Api\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Api\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T21:47:47.684Z",
               "EditorCaption": ""
             }
           ]

@@ -87,3 +87,6 @@ C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\Te
 C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\obj\Debug\net9.0\TechLibrary.Api.pdb
 C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\obj\Debug\net9.0\TechLibrary.Api.genruntimeconfig.cache
 C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\obj\Debug\net9.0\ref\TechLibrary.Api.dll
+C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fernando Zuchi\Desktop\develop\www\nlw-connect\C#\nlw-connect-csharp\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll

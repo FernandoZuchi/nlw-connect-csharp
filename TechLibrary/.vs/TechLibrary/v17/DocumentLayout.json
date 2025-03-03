@@ -1,122 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{27516AB2-24EC-4896-BEF5-AF70C2982E8A}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\fernando zuchi\\desktop\\develop\\www\\nlw-connect\\c#\\nlw-connect-csharp\\techlibrary\\techlibrary.api\\usecases\\books\\filterbookusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27516AB2-24EC-4896-BEF5-AF70C2982E8A}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\usecases\\books\\filterbookusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{538C1DF6-29D5-4F6D-ADA5-65E27D069066}|TechLibrary.Communication\\TechLibrary.Communication.csproj|c:\\users\\fernando zuchi\\desktop\\develop\\www\\nlw-connect\\c#\\nlw-connect-csharp\\techlibrary\\techlibrary.communication\\responses\\responsebooksjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{538C1DF6-29D5-4F6D-ADA5-65E27D069066}|TechLibrary.Communication\\TechLibrary.Communication.csproj|solutionrelative:techlibrary.communication\\responses\\responsebooksjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{538C1DF6-29D5-4F6D-ADA5-65E27D069066}|TechLibrary.Communication\\TechLibrary.Communication.csproj|c:\\users\\fernando zuchi\\desktop\\develop\\www\\nlw-connect\\c#\\nlw-connect-csharp\\techlibrary\\techlibrary.communication\\responses\\responsepaginationjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{538C1DF6-29D5-4F6D-ADA5-65E27D069066}|TechLibrary.Communication\\TechLibrary.Communication.csproj|solutionrelative:techlibrary.communication\\responses\\responsepaginationjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{538C1DF6-29D5-4F6D-ADA5-65E27D069066}|TechLibrary.Communication\\TechLibrary.Communication.csproj|c:\\users\\fernando zuchi\\desktop\\develop\\www\\nlw-connect\\c#\\nlw-connect-csharp\\techlibrary\\techlibrary.communication\\responses\\responsebookjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{538C1DF6-29D5-4F6D-ADA5-65E27D069066}|TechLibrary.Communication\\TechLibrary.Communication.csproj|solutionrelative:techlibrary.communication\\responses\\responsebookjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{538C1DF6-29D5-4F6D-ADA5-65E27D069066}|TechLibrary.Communication\\TechLibrary.Communication.csproj|c:\\users\\fernando zuchi\\desktop\\develop\\www\\nlw-connect\\c#\\nlw-connect-csharp\\techlibrary\\techlibrary.communication\\requests\\requestfilterbooksjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{538C1DF6-29D5-4F6D-ADA5-65E27D069066}|TechLibrary.Communication\\TechLibrary.Communication.csproj|solutionrelative:techlibrary.communication\\requests\\requestfilterbooksjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27516AB2-24EC-4896-BEF5-AF70C2982E8A}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\fernando zuchi\\desktop\\develop\\www\\nlw-connect\\c#\\nlw-connect-csharp\\techlibrary\\techlibrary.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27516AB2-24EC-4896-BEF5-AF70C2982E8A}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ResponsePaginationJson.cs",
-              "DocumentMoniker": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponsePaginationJson.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Communication\\Responses\\ResponsePaginationJson.cs",
-              "ToolTip": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponsePaginationJson.cs",
-              "RelativeToolTip": "TechLibrary.Communication\\Responses\\ResponsePaginationJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T23:10:05.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ResponseBooksJson.cs",
-              "DocumentMoniker": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponseBooksJson.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Communication\\Responses\\ResponseBooksJson.cs",
-              "ToolTip": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponseBooksJson.cs",
-              "RelativeToolTip": "TechLibrary.Communication\\Responses\\ResponseBooksJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T23:09:47.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FilterBookUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Api\\UseCases\\Books\\FilterBookUseCase.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\UseCases\\Books\\FilterBookUseCase.cs",
-              "ToolTip": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Api\\UseCases\\Books\\FilterBookUseCase.cs",
-              "RelativeToolTip": "TechLibrary.Api\\UseCases\\Books\\FilterBookUseCase.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T22:58:14.966Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ResponseBookJson.cs",
-              "DocumentMoniker": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponseBookJson.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Communication\\Responses\\ResponseBookJson.cs",
-              "ToolTip": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponseBookJson.cs",
-              "RelativeToolTip": "TechLibrary.Communication\\Responses\\ResponseBookJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T22:57:39.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RequestFilterBooksJson.cs",
-              "DocumentMoniker": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Communication\\Requests\\RequestFilterBooksJson.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Communication\\Requests\\RequestFilterBooksJson.cs",
-              "ToolTip": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Communication\\Requests\\RequestFilterBooksJson.cs",
-              "RelativeToolTip": "TechLibrary.Communication\\Requests\\RequestFilterBooksJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T22:56:44.277Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Api\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\nlw-connect\\C#\\nlw-connect-csharp\\TechLibrary\\TechLibrary.Api\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "TechLibrary.Api\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T22:55:59.047Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

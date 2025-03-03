@@ -1,6 +1,6 @@
 # 🚀 Next Level Week - Rocketseat
 
-![Badge](https://img.shields.io/badge/Status-Produção-yellow)  
+![Badge](https://img.shields.io/badge/Status-Concluído-green)  
 ![Badge](https://img.shields.io/badge/Framework-.NET-blue)  
 ![Badge](https://img.shields.io/badge/Language-C%23-purple)  
 
